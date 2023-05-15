@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['94775556234', 'desh', true],
+  ['94784581014', 'desh', true], 
   [''] 
 ] //Number of owners
 
@@ -50,12 +50,12 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.author = '@guru' 
+global.igfg = '▢ Follow on Instagram\n\n' 
+global.dygp = ''
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://@Asliguru'
+global.fgpyp = 'https://sliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
